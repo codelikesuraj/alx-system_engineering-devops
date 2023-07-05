@@ -9,3 +9,4 @@
 8-firstdelete - Deletes the file "betty" in "/tmp/my_first_directory".
 9-firstdirdeletion - Delete the directory "my_first_directory" that is in the "/tmp" directory.
 10-back - Changes the working directory to the previous directory.
+11-lists - Lists all files (including ones that start with .) in the current directory and the parent fo the working directory and the '/boot' directory (in that order), in long format.
