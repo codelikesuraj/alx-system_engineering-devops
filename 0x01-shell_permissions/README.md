@@ -8,3 +8,4 @@
 |[5-execute](5-execute)|Adds execute permission to the owner of the file 'hello'.|
 |[6-multiple_permissions](6-multiple_permissions)|Adds 'execute' permission to the owner and the group owner, and 'read' permission to other user, to the file 'hello'.|
 |[7-everybody](7-everybody)|Adds 'execute' permission to the owner, the group owner and the other users, to the file 'hello'.|
+|[8-James_Bond](8-James_Bond)|Gives only other users all the permissions to the file 'hello' and no permission for owner and group.|
