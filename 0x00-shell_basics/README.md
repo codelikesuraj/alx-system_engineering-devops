@@ -19,3 +19,4 @@
 101-clean_emacs - Deletes all files in the current working directory that end with the character '~'.
 102-tree - Creates the directories 'welcome/', 'welcome/to/' and 'welcome/to/school' in the current directory.
 103-commas - Lists all the files & directory of the current directory, separated while using the following constraints: directory names should end with a slash(/), files & directories starting with dot(.) should be listed, the listing should be alpha ordere except for the directories . and .. which should be listed at the very beginning, only digits and letter are used to sort - digits should come first, and the listing should end with a new line.
+school.mgc A magic file that can be used with the command 'file' to detect 'School' data files. 'School' data files alwasys contain the string 'SCHOOL' at offset 0.
