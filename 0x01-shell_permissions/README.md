@@ -14,3 +14,7 @@
 |[11-directories_permissions](11-directories_permissions)|Adds 'execute' permission to all subdirectories of the current directory for the owner, the group owner and all other users.|
 |[12-directory_permissions](12-directory_permissions)|Creates a directory 'my_dir' with permission '751' in the working directory.|
 |[13-change_group](13-change_group)|Changes the group owner to 'school' for the file 'hello'.|
+|[100-change_owner_and_group](100-change_owner_and_group)|Changes the owner to 'vincent' and the group owner to 'staff' for all the files and directories in the working directory.|
+|[101-symbolic_link_permissions](101-symbolic_link_permissions)|Changes the owner and group owner of the symbolic link '\_hello' to 'vincent' and 'staff' respectively in the working directory.|
+|[102-if_only](102-if_only)|Changes the owner of the file 'hello' to 'betty' only if it is owned by the user 'guillaume' in the working directory.|
+|[103-Star_Wars](103-Star_Wars)|Plays the StarWars IV episode in the terminal.|
