@@ -14,6 +14,7 @@
 |[13-unique](13-unique)|Takes a list of words as input and print only words that appear exactly once. Input is one line per word; Output is one line per word; Words should be sorted.|
 |[14-findthatword](14-findthatword)|Displays lines that contain the pattern 'root' from the file '/etc/passwd'.|
 |[15-countthatword](15-countthatword)|Displays the number of lines that contain the pattern 'bin' in the file '/etc/passwd'.|
+|[16-whatsnext](16-whatsnext)|Display lines containing the pattern 'root' and 3 lines after them in the file '/etc/passwd'.|
 |[17-hidethisword](17-hidethisword)|Displays all the lines in the file 'etc/passwd' that do not contain the pattern 'bin'.|
 |[18-letteronly](18-letteronly)|Displays all the lines of the file '/etc/ssh/ssh_config' starting with a letter (case insensitive).|
 |[19-AZ](19-AZ)|Replaces all characters 'A' and 'c' from input to 'Z' and 'e' respectively.|
