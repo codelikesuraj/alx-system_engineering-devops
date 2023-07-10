@@ -11,3 +11,4 @@
 |[9-duplicate_last_line](9-duplicate_last_line)|Duplicates the last line of the file 'iacta'|
 |[11-directories](11-directories)|Counts the number of directories and sub-directories in the current directory including hidden directories and excluding the current and parent directory.|
 |[12-newest_files](12-newest_files)|Displays the 10 newest files in the current directory sorted from the newest to the oldest at one file per line.|
+|[13-unique](13-unique)|Takes a list of words as input and print only words that appear exactly once. Input is one line per word; Output is one line per word; Words should be sorted.|
