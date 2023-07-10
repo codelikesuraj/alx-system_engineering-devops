@@ -13,3 +13,4 @@
 |[12-newest_files](12-newest_files)|Displays the 10 newest files in the current directory sorted from the newest to the oldest at one file per line.|
 |[13-unique](13-unique)|Takes a list of words as input and print only words that appear exactly once. Input is one line per word; Output is one line per word; Words should be sorted.|
 |[14-findthatword](14-findthatword)|Displays lines that contain the pattern 'root' from the file '/etc/passwd'.|
+|[15-countthatword](15-countthatword)|Displays the number of lines that contain the pattern 'bin' in the file '/etc/passwd'.|
