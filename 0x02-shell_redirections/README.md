@@ -19,3 +19,4 @@
 |[19-AZ](19-AZ)|Replaces all characters 'A' and 'c' from input to 'Z' and 'e' respectively.|
 |[20-hiago](20-hiago)|Removes all letters c and C from input|
 |[21-reverse](21-reverse)|Reverses its input|
+|[22-users_and_homes](22-users_and_homes)|Dispalys all users and their home directories, sorted by users.|
