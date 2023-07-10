@@ -6,3 +6,4 @@
 |[3-twofiles](3-twofiles)|Displays the content of '/etc/passwd' and '/etc/hosts'.|
 |[4-lastlines](4-lastlines)|Displays the last 10 lines of '/etc/passwd'.|
 |[5-firstlines](5-firstlines)|Displays the first 10 lines of '/etc/passwd'.|
+|[6-third_line](6-third_line)|Displays the third line of the file 'iacat'.|
