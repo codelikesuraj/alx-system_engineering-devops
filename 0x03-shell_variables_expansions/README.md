@@ -7,3 +7,4 @@
 |[5-local_variables](5-local_variables)|Lists all local variables and environment variables, and functions.|
 |[6-create_local_variable](6-create_local_variable)|Creates a new local variable with name 'BEST' and value 'School'.|
 |[7-create_global_variable](7-create_global_variable)|Creates a new global variable with name 'BEST' and value 'School'.|
+|[8-true_knowledge](8-true_knowledge)|Prints the result of the addition of 128 with the value store in the environment variable 'TRUEKNOWLEDGE', followed by a new line.|
