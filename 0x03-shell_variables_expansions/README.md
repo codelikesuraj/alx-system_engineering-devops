@@ -12,3 +12,4 @@
 |[10-love_exponent_breath](10-love_exponent_breath)|Displays teh result of 'BREATH' to the power of 'LOVE'.|
 |[11-binary_to_decimal](11-binary_to_decimal)|Converts a number from base 2 to base 10.|
 |[12-combinations](12-combinations)|Prints all possible combinations of two letters, except 'oo', with each combination on a line.|
+|[13-print_float](13-print_float)|Prints a number with thwo decimal places, followed by a new line. The number is stored in the environment variable 'NUM'.|
