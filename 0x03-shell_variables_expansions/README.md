@@ -13,3 +13,6 @@
 |[11-binary_to_decimal](11-binary_to_decimal)|Converts a number from base 2 to base 10.|
 |[12-combinations](12-combinations)|Prints all possible combinations of two letters, except 'oo', with each combination on a line.|
 |[13-print_float](13-print_float)|Prints a number with thwo decimal places, followed by a new line. The number is stored in the environment variable 'NUM'.|
+| | |
+|[100-decimal_to_hexadecimal](100-decimal_to_hexadecimal)|Converst a number from base 10 to base 16. The number in base 10 is stored in teh environment variable 'DECIMAL'.|
+|[101-rot13](101-rot13)|Encodes and decodes text using the rot13 encryption assuming ASCII.|
